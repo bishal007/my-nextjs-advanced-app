@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"components\\\\LazyComponent.tsx -> ./HeavyComponent\":{\"id\":\"components\\\\LazyComponent.tsx -> ./HeavyComponent\",\"files\":[\"static/chunks/components_HeavyComponent_tsx.js\"]}}"
